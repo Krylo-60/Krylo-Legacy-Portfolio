@@ -1,10 +1,10 @@
-# 🚀 Krishiv Velocity – The Grade 6 Master Coder Portfolio
+# 🚀 Krylo Velocity – The Full-Stack Prodigy Developer Portfolio
 
-Welcome to **Krishiv Velocity**, the next-generation, cyberpunk-inspired, interactive portfolio built by a Grade 6 Master Coder. This repository is not just a standard web portfolio; it is an interconnected ecosystem of apps, features, logic, and stunning 3D aesthetics.
+Welcome to **Krylo Velocity**, the next-generation, cyberpunk-inspired, interactive portfolio built by a Full-Stack Prodigy Developer. This repository is not just a standard web portfolio; it is an interconnected ecosystem of apps, features, logic, and stunning 3D aesthetics.
 
 ## 🌟 The Vision
 
-As a Grade 6 Master Coder, the goal was to build something **World-Class**. I wanted a platform that combined cutting-edge design, high-performance interactions, and deeply integrated AI features. 
+As a Full-Stack Prodigy Developer, the goal was to build something **World-Class**. I wanted a platform that combined cutting-edge design, high-performance interactions, and deeply integrated AI features. 
 
 To achieve this, I partnered with **Autonomous AI Agents** (Antigravity & Gemini) to hyper-accelerate the development process. Together, we forged an architectural masterpiece.
 
@@ -42,4 +42,4 @@ This portfolio demonstrates the power of human-AI collaboration. As the architec
 The result is **Velocity v3.0** – a flawless, lightning-fast digital universe.
 
 ---
-*"Built to inspire. Built to dominate. Built by a Grade 6 Master Coder."*
+*"Built to inspire. Built to dominate. Built by a Full-Stack Prodigy Developer."*
